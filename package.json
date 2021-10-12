@@ -1,0 +1,16 @@
+{
+  "name": "rate_limit_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.5.1",
+    "graphql-request": "^3.5.0"
+  }
+}
